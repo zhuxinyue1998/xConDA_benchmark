@@ -1,0 +1,65 @@
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# ===== Editors / IDE =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.tox/
+.nox/
+.cache/
+
+# ===== R =====
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+packrat/
+renv/library/
+renv/staging/
+.drake/
+_targets/
+
+# ===== Jupyter / Notebooks =====
+.ipynb_checkpoints/
+.jupyter/
+
+# ===== Data / Results / Logs =====
+data/raw/
+data/intermediate/
+data/tmp/
+data/cache/
+results/
+results_tmp/
+outputs/
+logs/
+checkpoints/
+tmp/
+temp/
+
+# ===== Pipelines / Workflow =====
+.snakemake/
+.work/
+.nextflow*
