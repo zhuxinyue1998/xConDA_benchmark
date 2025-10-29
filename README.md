@@ -1,7 +1,7 @@
 # Benchmarking Confounder-aware Differential Abundance (xConDA) Methods in Microbiome Data
 
 ## Workflow
-<img src="imgs/Study_design.png" width="600" alt="Study overview">
+# <img src="imgs/Study_design.png" width="600" alt="Study overview">
 
 ## Introduction
 We present a large-scale benchmark of **72 confounder-aware differential abundance analysis (DAA) strategies**, assembled from six input schemes (five normalization approaches plus raw counts) and 14 statistical models. 
